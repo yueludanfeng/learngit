@@ -2,4 +2,5 @@ test
 add a new line in test
 i am lxm
 partner
+I am partnet and add a new line
 I added later
