@@ -1,4 +1,5 @@
 test
 add a new line in test
+i am lxm
 partner
 I added later
