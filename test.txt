@@ -1,5 +1,6 @@
 test
 add a new line in test
+I am lxm and I still add a new line
 i am lxm
 partner
 I am partnet and add a new line
